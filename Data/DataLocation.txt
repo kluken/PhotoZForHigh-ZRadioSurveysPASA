@@ -1,0 +1,4 @@
+The data can be found at: https://doi.org/10.25919/awsp-rq14
+
+If you are planning on using this database, please cite it as:
+Luken, Kieran; Norris, Ray; Wang, Rosalind; Park, Laurence; Guo, Ying; Filipovic, Miroslav (2023): Radio-selected astronomical catalogue for Machine Learning based redshift estimates. v2. CSIRO. Data Collection. https://doi.org/10.25919/awsp-rq14
